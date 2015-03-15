@@ -4,7 +4,7 @@ Reproducible Research: Peer Assessment 1
 by **Yong Wu**
 
 ## Introduction
-This is the first assignment for the course *Reproducible Research* from John Hopkins University. In this assignment, we are looking at a data set which was a result of an anoymous person's activity monitoring from 01 Oct. to 30 Nov. 2012. The data set has three variables:
+This is the first assignment for the course *Reproducible Research* from John Hopkins University. In this assignment, we are looking at a data set which was a result of an anoymous person's activity monitoring data from 01 Oct. to 30 Nov. 2012. The data set has three variables:
 
 * **steps**: Number of steps taking in a 5-minute interval (`NA` for missing values)
 * **date**: The date on which the measurement was taken in YYYY-MM-DD format
